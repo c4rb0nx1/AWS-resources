@@ -4,9 +4,9 @@
 
 By AWS:
 
-[certified-cloud-practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[cloud-practitioner](https://aws.amazon.com/training/learn-about/cloud-practitioner/)
-[aws-cloud-practitioner-essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+- [certified-cloud-practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [cloud-practitioner](https://aws.amazon.com/training/learn-about/cloud-practitioner/)
+- [aws-cloud-practitioner-essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 
 ## creating aws account:
 
