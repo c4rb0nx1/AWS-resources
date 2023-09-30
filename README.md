@@ -21,7 +21,6 @@ By AWS:
 (Free Tier) My Billing Dashboard > Billing preferences > Cost Management Preferences > [Enable] Recieve Free Tier usage alerts
 
 (Alert when usage reaches $$$)
+  - Step 1: My Billing Dashboard > Billing preferences > Cost Management Preferences > [Enable] Recieve Billing alerts
 
-Step 1: My Billing Dashboard > Billing preferences > Cost Management Preferences > [Enable] Recieve Billing alerts
-
-Step 2:[This video can get the job done quick](https://youtu.be/FRQ9fE4fd5g?t=711)
+  - Step 2:[This video can get the job done quick](https://youtu.be/FRQ9fE4fd5g?t=711)
