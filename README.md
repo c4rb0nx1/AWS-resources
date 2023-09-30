@@ -14,7 +14,7 @@ By AWS:
 
 - [Creating an AWS Account](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html).
 
-- [Setup Account](https://youtu.be/FRQ9fE4fd5g).
+- [Setup Account (video) ](https://youtu.be/FRQ9fE4fd5g).
 
 ### [CLF C01 vs CLF C02] ![aws-certified-cloud-practitioner-clf-c02-exam-guide-exam-topics-pdf-book-1536x1151](https://github.com/c4rb0nx1/AWS-resources/assets/90444898/56e3bb51-dab4-4b29-b832-2547dd5e2424)
 
