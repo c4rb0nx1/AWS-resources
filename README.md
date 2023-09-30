@@ -1,6 +1,6 @@
 # AWS-resources
 
-[Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/20053442#overview)
+> Video Course on [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/20053442#overview)
 
 By AWS:
 
